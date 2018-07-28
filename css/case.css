@@ -1,0 +1,14 @@
+.content{
+  height: 90%;
+}
+
+.image {
+  background-color: orange;
+  height: 700px;
+
+}
+
+.textbox {
+  background-color: red;
+  height: 200px;
+}

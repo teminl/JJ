@@ -1,0 +1,15 @@
+#slider {
+    width: 100%;
+    overflow: hidden;
+}
+.frameholder {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.frame {
+    width: 1700px;
+    height: 760px;
+    float: left;
+}
